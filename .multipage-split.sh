@@ -10,4 +10,4 @@ pushd ./tools
 npm install
 popd
 
-node --max_old_space_size=2048 --expose-gc ./tools/multipage.js single-page.html ./out/
+node --max_old_space_size=2048 --expose-gc ./tools/multipage.js single-page.hip+ ./out/
