@@ -1,5 +1,5 @@
  # .gitattributes
-
+*.hip+ linguist-language=hip+
 # Specify files that Git should treat as text
 *.hip+ linguist-language=hipplus
 
