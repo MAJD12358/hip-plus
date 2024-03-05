@@ -1,6 +1,6 @@
 # hip+ Programming Language
 
-![hip+ Logo](hipplus-logo.png)
+![hip+ Logo](Picsart_24-02-22_00-19-57-269.jpg)
 
 ## Overview
 
