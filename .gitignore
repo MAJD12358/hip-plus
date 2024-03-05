@@ -1,1 +1,43 @@
+# Ignore compiled files
+*.o
+*.out
+*.obj
+*.class
+
+# Ignore executables
+*.exe
+*.dll
+*.so
+
+# Ignore build output directories
+/build/
+/bin/
+/out/
+
+# Ignore environment-specific files
+.env
+
+# Ignore package files
+node_modules/
+*.zip
+*.tar
+*.gz
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore IDE specific files and directories
+.idea/
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and databases
+*.log
+*.sqlite
+*.db
+
 single-page.hip+
